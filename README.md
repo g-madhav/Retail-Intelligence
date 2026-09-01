@@ -1,4 +1,4 @@
-# Retail-Intelligence-Demand-Forecasting
+# Inventory Intelligence & Demand Forecasting Model
 
 ## Overview
 
